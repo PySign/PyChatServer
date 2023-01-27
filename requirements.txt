@@ -1,0 +1,6 @@
+fastapi
+fastapi-utils
+pyjwt
+uvicorn
+python-multipart
+websockets
