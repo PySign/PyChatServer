@@ -3,4 +3,7 @@ fastapi-utils
 pyjwt
 uvicorn
 python-multipart
-websockets
+websocket-client
+peewee
+rsa
+pyotp

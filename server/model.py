@@ -9,7 +9,7 @@
 from pydantic import BaseModel
 
 
-class Connection(BaseModel):
+class User(BaseModel):
     """Added connection model"""
     username: str
-    totp: int
+    public_key: str
